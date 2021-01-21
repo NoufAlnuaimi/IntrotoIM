@@ -1,4 +1,2 @@
 # IntrotoIM
-## small
-### smaller
-#### even smaller
+#### IntrotoIM 
