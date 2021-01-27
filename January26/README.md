@@ -9,4 +9,4 @@
 ## Things I learnt
 #### - Put a lot of time aside to work on the programming.
 #### - Google and youtube are very helpful.
-#### - Be patient because its a trial and fail process especially with the triangle.
+#### - Be patient because it's a trial and fail process especially with the triangle.
