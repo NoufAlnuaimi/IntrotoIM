@@ -15,7 +15,7 @@
  ![](FifthChange.jpg)
  ##### To fix the issue of the coins dropping down first thing, I used the mousePressed function to reduce it to when 
  ##### the mouse hovers over the miss-matched triangle, you win and it rains gold coins!
-
+![](FinalProgress.mov)
 ## Difficulties:
 ##### - The longer the code got, the more lost I'd get so I kept opening new tabs to write the little codes and added them to the main program.
 ##### - Figuring out how to add the class I made to the mousePressed function.
