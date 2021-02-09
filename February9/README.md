@@ -9,17 +9,17 @@
  ![](ThirdChange.jpg)
  ##### Mouse pressed:
  ![](ForthChange.jpg)
- ##### For the "game" to be less confusing, I added a triangle that slightly miss-matched the triangles background.
+ ##### For the "game" to be less confusing, I added a triangle that slightly miss-matched the triangles in the background.
  ##### Then I set-up the coins class and although it was a bit confusing at first, I went over the class notes and
  ##### watched youtube videos to help me along the process.
  ![](FifthChange.jpg)
  ##### To fix the issue of the coins dropping down first thing, I used the mousePressed function to reduce it to when 
- ##### the mouse hovers over the miss-matched triangle, you win and it rains gold coins.
-##### My piece 
- ![](artpiece.jpg)
-## Difficulties:
-#### - Understanding the rotation of the lines.
+ ##### the mouse hovers over the miss-matched triangle, you win and it rains gold coins!
 
-## Things I learnt:
-#### - Mistakes make for weirdly good results (the little traingles sun rays around the sun).
-#### - Loops are a lot of fun and a lot easier to use.
+## Difficulties:
+##### - The longer the code got, the more lost I'd get so I kept opening new tabs to write the little codes and added them to the main program.
+##### - Figuring out how to add the class I made to the mousePressed function.
+##### - Not figuring out how to reduce the mousePressed to one shape so I resorted to setting it to hover over a certian point to trigger the coins to fall.
+
+## Things I'd like to learn for the future:
+##### - Setting the mousePressed so that it works when a certian shape is pressed.
