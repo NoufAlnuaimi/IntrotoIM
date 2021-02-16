@@ -16,6 +16,15 @@
 
 ## Difficulties:
 ##### - For the data, I first tried insertng a table but for some reason it would not work so i struggled a lot with understanding the idea of inserting data and graphing it for example.
+```
+Table table = loadTable("data copy.csv","header");
+TableRow row = table.getRow(0);
 
+String x = row.getString(0);
+float y = row.getFloat(1);
+float w = row.getInt(2);
+
+rect(0,y,w,0);
+```
 ## Things I'd like to learn for the future:
 ##### - Get more used to the text and data idea so I can create better projects.
