@@ -16,7 +16,7 @@
 
 ## Difficulties:
 ##### - For the data, I first tried insertng a table but for some reason it would not work so i struggled a lot with understanding the idea of inserting data and graphing it for example.
-```
+```ruby
 Table table = loadTable("data copy.csv","header");
 TableRow row = table.getRow(0);
 
