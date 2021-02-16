@@ -59,8 +59,8 @@ void draw() {
     //bar graph
   float w2 = width/data.length;
   for (int j = 0; j < data.length; j ++ ) {
-    fill(data[j],0,0, 200); // change the amount of red according to the value
-    rect(j*w2, height-data[j], w2, data[j]); // the height also depends on the value
+    fill(data[j],0,0, 200); 
+    rect(j*w2, height-data[j], w2, data[j]); 
   }
   if (csvRowNumber < strings.length-1) {
     csvRowNumber++;
