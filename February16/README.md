@@ -26,5 +26,7 @@ float w = row.getInt(2);
 
 rect(0,y,w,0);
 ```
+##### What I get:
+ ![](graphissue.jpg)
 ## Things I'd like to learn for the future:
 ##### - Get more used to the text and data idea so I can create better projects.
