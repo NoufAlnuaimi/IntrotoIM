@@ -22,3 +22,8 @@
 ## February 23rd:
 #### I realized the silly mixtake I made with my code last night.
 ![](Fixedissue.jpg)
+### Plans for today:
+#### - Put a mouseclicked function on the start button.
+#### - Add the "lives" count.
+#### - Understand how to use pixel colors to check of the player is touching a wall.
+#### - Use that to make the number of lives decrease.
