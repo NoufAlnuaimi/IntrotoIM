@@ -18,5 +18,5 @@
  #### When I added the class into the main program; ready to do the whole mouseclicked to start the game,,,,this happened:
  ![](Theissue.jpg)
 #### I had other assignments to tend to so I decided to fix this issue on the 23rd.
-##### Other personal issuesI had and need to work on for the sake of time: please, for the love of heavens, stop trying to resolve other issues whilst working on an issue already. I end up reading too many threads on processing to understand concepts I want to tackle when I havent even finished the concpet I'm working on.
+##### Other personal issues I had and need to work on for the sake of time: please, for the love of heavens, stop trying to resolve other issues whilst working on an issue already. I end up reading too many threads on processing to understand concepts I want to tackle when I havent even finished the concpet I'm working on.
 ## February 23rd:
