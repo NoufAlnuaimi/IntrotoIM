@@ -9,7 +9,7 @@
  ##### Example:
   ![](FirstProgress.jpg)
   ## February 22nd:
- #### I scaled it down to (1000,800) instead of (1000,1000) for a better size and so I can see the whole program on my screen. I also finished my maze walls and created the little "player" circle.
+ #### I scaled it down to (1000,800) instead of (1000,1000) for a better size and so I can see the whole program on my screen. I also finished my maze walls and created the little "player" circle. I thought the one exit staretgy i went for in my sketch seemed too easy, so I instead decided to include several paths at the bottom that looked like the right paths and the player would only know which one to go for through the clues.
  ##### Here:
  ![](Mazewalls.jpg)
  #### Whilst doing that, I realized that using functions to draw shapes or such is a lot better than drawing the shapes themselves inside the draw function. When you create your own function, it is a lot neater thus a lot easire to navigate through when there is a mistake. 
