@@ -20,7 +20,7 @@
 #### I had other assignments to tend to so I decided to fix this issue on the 23rd.
 ##### Other personal issues I had and need to work on for the sake of time: please, for the love of heavens, stop trying to resolve other issues whilst working on an issue already. I end up reading too many threads on processing to understand concepts I want to tackle when I havent even finished the concpet I'm working on.
 ## February 23rd:
-#### I realized the silly mixtake I made with my code last night.
+#### I realized the silly mixtake I made with my code last night and so I fixed it.
 ![](Fixedissue.jpg)
 ### Plans for today:
 #### - Put a mouseclicked function on the start button.
