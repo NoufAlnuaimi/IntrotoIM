@@ -24,6 +24,7 @@
 ![](Fixedissue.jpg)
 ### Plans for today:
 #### - Put a mouseclicked function on the start button.
+#### - Make a game over page.
 #### - Add the "lives" count.
 #### - Understand how to use pixel colors to check of the player is touching a wall.
 #### - Use that to make the number of lives decrease.
