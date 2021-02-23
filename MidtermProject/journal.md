@@ -33,4 +33,4 @@
 ### What I've done today:
 #### the page that appears once you lose the game:
 ![](Losingpage.jpg)
-##### For the sad face I used an image from the internet to get used to using the image funvtion for the boxes I will use in the maze itself.
+##### For the sad face I used an image from the internet to get used to loading images for the boxes (the hold clues) I will use in the maze itself.
