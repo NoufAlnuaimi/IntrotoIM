@@ -27,3 +27,5 @@
 #### - Add the "lives" count.
 #### - Understand how to use pixel colors to check of the player is touching a wall.
 #### - Use that to make the number of lives decrease.
+### Issues for today:
+#### -Everytime mouse is pressed or clicked with a noloop, the player circle either freezes or disappeares.
