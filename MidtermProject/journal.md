@@ -1,6 +1,6 @@
 # A Maze Game
 ### My Idea:
-#### I decided to create a maze game because I thought I could easily incooperate all the requirements of the midterm project.
+#### I decided to create a maze game because I thought I could easily incooperate all the requirements of the midterm project. The idea of the game is that you collect the clues from boxes and follow the clues to collect the rest of the correct boxes BUT every time you touch a wall you lose a "life" and each player has only 4 "lives". You lose the game when you lose them all. You win the game when you collect all and exit through the right path.
 ## February 18th:
 #### I decided to first roughly sketch my idea and plan out all the little details I wanted to add like what images I wanted to use and what sounds. Then I watched videos to make sure I was actually capable of doing them as I am very new to programming and had never done it before this class.
 ##### The Sketch:
