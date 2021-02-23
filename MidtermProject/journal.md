@@ -30,3 +30,5 @@
 #### - Use that to make the number of lives decrease.
 ### Issues for today:
 #### -Everytime mouse is pressed or clicked with a noloop, the player circle either freezes or disappeares.
+#### the page that appears once you lose the game:
+![](Losingpage.jpg)
