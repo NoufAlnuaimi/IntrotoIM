@@ -30,6 +30,7 @@
 #### - Use that to make the number of lives decrease.
 ### Issues for today:
 #### -Everytime mouse is pressed or clicked with a noloop, the player circle either freezes or disappeares.
+### What I've done today:
 #### the page that appears once you lose the game:
 ![](Losingpage.jpg)
 ##### For the sad face I used an image from the internet to get used to using the image funvtion for the boxes I will use in the maze itself.
