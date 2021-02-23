@@ -9,3 +9,5 @@
  ##### Example:
   ![](FirstProgress.jpg)
   ## February 22nd:
+ #### I scaled it down to (1000,800) instead of (1000,1000) for a better size and so I can see the whole program on my screen. I also finished my maze walls and created the little "player" circle.
+ ##### Here:
