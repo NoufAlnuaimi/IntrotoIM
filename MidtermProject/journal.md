@@ -17,3 +17,5 @@
  ![](gamestartpage.jpg)
  #### When I added the class into the main program; ready to do the whole mouseclicked to start the game,,,,this happened:
  ![](Theissue.jpg)
+#### I had other assignments to tend to so I decided to fix this issue on the 23rd.
+## February 23rd:
