@@ -11,3 +11,9 @@
   ## February 22nd:
  #### I scaled it down to (1000,800) instead of (1000,1000) for a better size and so I can see the whole program on my screen. I also finished my maze walls and created the little "player" circle.
  ##### Here:
+ ![](Mazewalls.jpg)
+ #### Whilst doing that, I realized that using functions to draw shapes or such is a lot better than drawing the shapes themselves inside the draw function. When you create your own function, it is a lot neater thus a lot easire to navigate through when there is a mistake. 
+ #### After being done with the maze walls, I watched a video about classes again just to grasp the idea of it and decided to create a class for my game's "start" page. I settled for a simple old video games look and the instructions typed out as a little typewriter one letter at a time.
+ ![](gamestartpage.jpg)
+ #### When I added the class into the main program; ready to do the whole mouseclicked to start the game,,,,this happened:
+ ![](Theissue.jpg)
