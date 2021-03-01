@@ -69,6 +69,6 @@
 ##### - Used code that would print the color the mouse is on and with the help of that (and discord group) I also set a code that would decrease the lives by 1 whenever the mouse goes over or touches the walls. 
 ##### - Added a "start" text at the start of the maze.
 ![](finishedmaze.png)
-### Issues I've learnt today:
+### Things I've learnt today:
 #### - Asking classmates for help or seeing their previous codes to learn things from (or how they did things) is really really helpful!
 
