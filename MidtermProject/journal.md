@@ -35,8 +35,10 @@
 ![](Losingpage.jpg)
 ##### For the sad face I used an image from the internet to get used to loading images for the boxes (the hold clues) I will use in the maze itself.
 ## February 25th:
-
-
+#### I learnt how to use boolean variable and used that for my start up page. Now it's set that once you press on the start button the game starts.
 ## February 26th:
-### Things I've done today:
-#### - 
+### Things I've done/learnt today:
+#### - Found the perfect treasurebox image and used it for my maze. 
+#### - Because my maze had so many treasure boxes, figuring out their location or where i wanted to put them got very very easy.
+#### - To make it easier to set the clues and pick which boxes I wanted, I took a picture of my maze with my ipad and chose the boxes and set all the colors + the clues.
+![](cluesprogress.jpg)
