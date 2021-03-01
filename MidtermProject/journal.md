@@ -34,3 +34,9 @@
 #### the page that appears once you lose the game:
 ![](Losingpage.jpg)
 ##### For the sad face I used an image from the internet to get used to loading images for the boxes (the hold clues) I will use in the maze itself.
+## February 25th:
+
+
+## February 26th:
+### Things I've done today:
+#### - 
