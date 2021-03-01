@@ -70,4 +70,4 @@
 ##### - Added a "start" text at the start of the maze.
 ### Issues I've learnt today:
 #### - Asking classmates for help or seeing their previous codes to learn things from (or how they did things) is really really helpful!
-
+![](finishedmaze.png)
