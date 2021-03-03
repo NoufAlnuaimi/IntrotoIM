@@ -73,7 +73,7 @@
 #### - Asking classmates for help or seeing their previous codes to learn things from (or how they did things) is really really helpful!
 ## March 2nd:
 ### Things I've done today:
-#### - Discussed the issue with the start up page and finally fixed it!
+#### - Discussed the issue with the start up page with the professor and finally fixed it!
 #### - Put better instructions for the game in the start page.
 ### Game demonstration:
 ![](gameDemonstration.gif)
