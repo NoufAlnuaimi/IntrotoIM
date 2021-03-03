@@ -77,3 +77,5 @@
 #### - Put better instructions for the game in the start page.
 ### Game demonstration:
 ![](gameDemonstration.gif)
+### For the future:
+#### - Maybe add more than one level to the game or randomize the location of the clues every time the game is repeated.
