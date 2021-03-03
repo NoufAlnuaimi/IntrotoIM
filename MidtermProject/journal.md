@@ -76,4 +76,4 @@
 #### - Discussed the issue with the start up page and finally fixed it!
 #### - Put better instructions for the game in the start page.
 ### Game demonstration:
-![](game%20demonstration.mov)
+![](gameDemonstration.gif)
