@@ -81,13 +81,14 @@
 #### - Maybe add more than one level to the game or randomize the location of the clues every time the game is repeated.
 ### Game demonstration in photos:
 ##### -start page:
-
+![](first.png)!
 ##### -maze:
-
+![](second.png)
 ##### -box with a clue:
-
+![](third.png)
 ##### -wrong box (no clue):
-
+![](fourth.png)
 ##### -winning treasure box:
-
+![](fifth.png)
 ##### -losing page:
+![](sixth.png)
