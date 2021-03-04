@@ -77,6 +77,7 @@
 #### - Put better instructions for the game in the start page.
 ### Game demonstration video:
 ![](gameDemonstration.gif)
+### Game demonstration in photos:
 ##### -start page:
 ![](first.png)
 ##### -maze:
@@ -91,4 +92,3 @@
 ![](sixth.png)
 ## For the future:
 #### - Maybe add more than one level to the game or randomize the location of the clues every time the game is repeated.
-### Game demonstration in photos:
