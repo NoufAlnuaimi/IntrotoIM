@@ -75,7 +75,19 @@
 ### Things I've done today:
 #### - Discussed the issue with the start up page with the professor and finally fixed it!
 #### - Put better instructions for the game in the start page.
-### Game demonstration:
+### Game demonstration video:
 ![](gameDemonstration.gif)
 ### For the future:
 #### - Maybe add more than one level to the game or randomize the location of the clues every time the game is repeated.
+### Game demonstration in photos:
+##### -start page:
+
+##### -maze:
+
+##### -box with a clue:
+
+##### -wrong box (no clue):
+
+##### -winning treasure box:
+
+##### -losing page:
