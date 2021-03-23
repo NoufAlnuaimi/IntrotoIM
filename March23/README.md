@@ -1,5 +1,5 @@
 # Production Assignment
-## Creating a circuit puzzle with three LED lights and 3 switches
+## Creating a circuit puzzle with three LED lights and three switches
 ### My schematic:
  ![](LEDsPuzzle.jpg)
 ### The Puzzle:
