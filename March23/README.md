@@ -3,7 +3,7 @@
 ### My schematic:
  ![](LEDsPuzzle.jpg)
 ### The Puzzle:
-#### - Goals is to turn the yellow and green LED lights off
+#### - Goal is to turn the yellow and green LED lights off
 ### What happens:
 #### - When you press the wrong buttons, the red LED lights goes on indicating you're on the wrong button.
 #### - When you find the right button, you also have to figure how many times to press it for the yellow and green LED lights go off momentarily indicating you got it!
