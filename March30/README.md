@@ -7,7 +7,7 @@
 ####  link to the project that helped most:
 https://create.arduino.cc/projecthub/royba1999/arduino-tutorial-controlling-leds-with-ldr-sensor-8813c2
 ### For next time:
-#### - Although my circuit works well, it does not execute the numbers i wrote in the code so I want to learn and fix that.
+#### - Although my circuit works well, it does not execute the numbers i wrote in the code so I want to learn the issue and fix that.
 ### What I learnt:
 #### - else if makes for cleaner and better working code
 #### - Using a variable and assigning it a number for later comparisons is a lot easier (and better) than using exact numbers and comparing that.
