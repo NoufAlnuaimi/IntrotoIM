@@ -14,6 +14,6 @@ https://create.arduino.cc/projecthub/royba1999/arduino-tutorial-controlling-leds
 ### The Circuit:
 ![](IMG_1712.jpg)
 ![](IMG_1713.jpg)
-![](IMG_1714.jpg)
+![](IMG_1715.jpg)
 ### Video:
 ![](IMG_1709.mov)
