@@ -12,4 +12,8 @@ https://create.arduino.cc/projecthub/royba1999/arduino-tutorial-controlling-leds
 #### - else if makes for cleaner and better working code
 #### - Using a variable and assigning it a number for later comparisons is a lot easier (and better) than using exact numbers and comparing that.
 ### The Circuit:
-
+![](IMG_1713.JPG)
+![](IMG_1714.JPG)
+![](IMG_1715.JPG)
+### Video:
+![](IMG_1709.MOV)
