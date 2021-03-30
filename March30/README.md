@@ -3,7 +3,7 @@
 ### My schematic:
  ![](2ndassignmentschematic.JPG)
 ### Difficulties:
-#### - My code, as a whole, wouldn't work properly so i tried each condition separately and saw that they worked. Once I realized they I tried google for examples to see how they did things and I kept trying them until one worked well for my project!
+#### - My code, as a whole, wouldn't work properly so i tried each condition separately and saw that they worked. Once I realized that I tried google for examples to see how they did things and I kept trying them until one worked well for my project!
 ####  link to the project that helped most:
 https://create.arduino.cc/projecthub/royba1999/arduino-tutorial-controlling-leds-with-ldr-sensor-8813c2
 ### For next time:
