@@ -16,4 +16,4 @@ https://create.arduino.cc/projecthub/royba1999/arduino-tutorial-controlling-leds
 ![](IMG_1713.jpg)
 ![](IMG_1715.jpg)
 ### Video:
-![](IMG_1709.mov)
+![](assignment2.mov)
