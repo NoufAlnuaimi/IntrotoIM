@@ -1,6 +1,6 @@
 # 2nd Assignment
 #### For my musical instrument I took inspiration from a toy I loved as a kid. 
-##### The toy was a little piano that has colorful keys, and every time you pressed a key, a corresponding light would go on. Since I loved that toy so much, I thought recreating it would be very enjoyable. My main focus was the piano itself but once I finished that, I moved on to using the servo for some extra beats from the bell it would hit!
+##### The toy was a little piano that had colorful keys, and every time you pressed a key, a corresponding light would go on. Since I loved that toy so much, I thought recreating it would be very enjoyable. My main focus was the piano itself but once I finished that, I moved on to using the servo for some extra beats from the bell it would hit!
 #### What I did:
 ### - I decided to give each switch a different tone, for it to become a mini piano.
 ### - The LED lights are there for some extra fun and accuracy in recreating the toy.
