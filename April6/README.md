@@ -8,3 +8,5 @@
 ### The Circuit:
 ![](IMG_1888.jpg)
 ![](IMG_1889.jpg)
+### Video demo:
+https://www.youtube.com/watch?v=GUZcZIsx1FA
