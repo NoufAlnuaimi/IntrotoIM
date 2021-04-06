@@ -1,5 +1,5 @@
 # 2nd Assignment
-#### For my musical instrument, I decided to give each switch a different tone, for it to become a mini piano! The LED lights are there for some extra fun. For the servo, I decided to attach a pen to it and had it move at an angle that will hit the bell that's hanging.
+#### For my musical instrument I took inspiration from a toy I loved as a kid. I decided to give each switch a different tone, for it to become a mini piano! The LED lights are there for some extra fun. For the servo, I decided to attach a pen to it and had it move at an angle that will hit the bell that's hanging.
 ### My schematic:
  ![](IMG_0613.JPG)
 ### Difficulties:
