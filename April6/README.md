@@ -15,3 +15,5 @@
 ![](IMG_1889.jpg)
 ### Video demo:
 https://www.youtube.com/watch?v=GUZcZIsx1FA
+### A question i was curious about:
+#### If the delays are short enough, do they effect any other activity the arduino is doing? The keys use delays and I noticed that worked fine when it came to the servo hitting the bell.
