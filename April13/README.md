@@ -14,10 +14,11 @@ https://youtu.be/sA0MwmrtpTI
 #### Issues I had:
 ##### - The buttons wouldn’t work if the pattern was repeated properly, it would only work on number of presses one switch at a time.
 ##### - Combining the two codes made the second not work.
-##### - I wasn't able to demonstarte the second pattern because i struggled with coding it.
-##### - When the yellow switch button is pressed the right amount of times, it was suppsoed to make all LEDS blink but instead pressing the green switch once made all the LEDs blink.
+##### - I wasn't able to demonstrate the second pattern because i struggled with coding it.
+##### - When the yellow switch button is pressed the right amount of times, it was supposed to make all LEDS blink but instead pressing the green switch once made all the LEDs blink.
 #### For the future:
 ##### - Focus on minimizing your code.
+##### - use arrays whenever you can!
 ##### - Make sure you decently understand a concept before venturing into it.
 ##### - Improve the mistakes you made and learn from your mistakes!
 
