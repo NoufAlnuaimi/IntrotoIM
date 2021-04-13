@@ -1,6 +1,8 @@
 # 4th Assignment:
 #### The game:
 ##### Each button on the processing display screen gives out different LED patterns on the arduino. The player has to memorize that pattern and repeat it with the switches to win
+#### Schematic:
+![](IMG_0622.JPG)
 #### Demo:
 ![](assignment4.png)
 ###### First Pattern:
