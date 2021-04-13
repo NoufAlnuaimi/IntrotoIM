@@ -3,6 +3,10 @@
 ##### Each button on the processing display screen gives out different LED patterns on the arduino. The player has to memorize that pattern and repeat it with the switches to win
 #### Demo:
 ![](assignment4.png)
+###### First Pattern:
+![](IMG_1974.gif)
+###### Second Pattern:
+![](IMG_1976.gif)
 #### Issues I had:
 ##### - The buttons wouldn’t work if the pattern was repeated properly, it would only work on number of presses one switch at a time.
 ##### - Combining the two codes made the second not work.
