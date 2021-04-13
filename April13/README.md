@@ -7,6 +7,8 @@
 ![](IMG_1974.gif)
 ###### Second Pattern:
 ![](IMG_1976.gif)
+###### Pattern solving demo:
+https://youtu.be/sA0MwmrtpTI
 #### Issues I had:
 ##### - The buttons wouldn’t work if the pattern was repeated properly, it would only work on number of presses one switch at a time.
 ##### - Combining the two codes made the second not work.
