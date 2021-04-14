@@ -21,6 +21,9 @@ https://youtu.be/sA0MwmrtpTI
 ##### - use arrays whenever you can!
 ##### - Make sure you decently understand a concept before venturing into it.
 ##### - Improve the mistakes you made and learn from your mistakes!
-
+#### Links that helped:
+https://www.youtube.com/watch?v=yOMglntmmnA
+https://processing.org/reference/mouseReleased_.html
+https://sdevelectronics.blogspot.com/2020/01/control-led-using-processing-gui.html
 
 
