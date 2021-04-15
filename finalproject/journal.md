@@ -6,7 +6,7 @@
 ##### - The second game will be a fruit catching game where the player controls the x-position of the basket using the potentiometer.
 ##### - I haven't decided on the third game yet but I know that the player will be using an LDR to control something on arduino.
 ## April 15th:
-#### Today I put my circuit together, drew my schematic, and played the rough sketch of the way I wanted my processing page to be.
+#### Today I put my circuit together, drew my schematic, and planned the rough sketch of the way I wanted my processing page to be.
 
 #### Schematic sketch:
 ![](IMG_0625.JPG)
