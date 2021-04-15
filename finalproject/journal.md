@@ -9,7 +9,8 @@
 #### Today I put my circuit together, drew my schematic, and played the rough sketch of the way I wanted my processing page to be.
 
 #### Schematic sketch:
-
+![](IMG_0625.JPG)
 #### My circuit:
-
+![](IMG_2003.heic)
 #### Rough idea of my Processing page:
+![](IMG_0626.JPG)
