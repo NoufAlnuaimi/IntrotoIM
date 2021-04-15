@@ -11,6 +11,6 @@
 #### Schematic sketch:
 ![](IMG_0625.JPG)
 #### My circuit:
-![](IMG_2003.heic)
+![](IMG_2003.jpg)
 #### Rough idea of my Processing page:
 ![](IMG_0626.JPG)
