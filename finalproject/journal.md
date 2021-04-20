@@ -20,6 +20,8 @@
 #### Processing page:
 ![](processingpage.png)
 #### Sketched out the way I wanted my first game to be and came up with the patterns.
+##### First game idea:
+#### - The player goes through the map to the door, once the door is clicked it'll result in a LED pattern on the arduino and the player with have choices to choose the right answer from. When the right answer is picked, colorful light will go on and the second part of the map will open and the player repeats the same steps to the third door and win! (Picking the wrong answer will make the player lose)
 #### Rough sketch of the first game:
 ![](Roughsketch1.JPG)
 #### First game so far:
