@@ -24,6 +24,14 @@
 #### - The player goes through the map to the door, once the door is clicked it'll result in a LED pattern on the arduino and the player with have choices to choose the right answer from. When the right answer is picked, colorful light will go on and the second part of the map will open and the player repeats the same steps to the third door and win! (Picking the wrong answer will make the player lose)
 #### Rough sketch of the first game:
 ![](Roughsketch1.JPG)
+## April 15th:
+#### Finished what I could from the first game.
 #### First game so far:
 ![](firstgame1.png)
 ##### Black walls are hiding the rest of the game.
+#### I got stuck at the whole boolean and opening new pages thing so I will do that some other day.
+## April 19th:
+#### I couldn't find certian images for my games so I just spent some time drawing that:
+![](redLED.png)
+![](yellowLED.png)
+![](blueLED.png)
