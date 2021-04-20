@@ -19,3 +19,8 @@
 #### Finished the processing page and made sure the buttons are working by printing "button is clicked" when the player clicks on the button.
 #### Processing page:
 ![](processingpage.png)
+#### Sketched out the way I wanted my first game to be and came up with the patterns.
+#### Rough sketch of the first game:
+
+#### First game so far:
+![](firstgame1.png)
