@@ -21,6 +21,6 @@
 ![](processingpage.png)
 #### Sketched out the way I wanted my first game to be and came up with the patterns.
 #### Rough sketch of the first game:
-
+![](Roughsketch1.JPG)
 #### First game so far:
 ![](firstgame1.png)
