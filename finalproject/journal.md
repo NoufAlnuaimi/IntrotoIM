@@ -26,3 +26,4 @@
 ![](Roughsketch1.JPG)
 #### First game so far:
 ![](firstgame1.png)
+##### Black walls are hiding the rest of the game.
