@@ -15,3 +15,7 @@
 #### Rough idea of my Processing page:
 ![](IMG_0626.JPG)
 #### For tomorrow and next week I'll probably try to be done with everything that has to do with processing and test that everything works fine then I will move to the arduino and make sure they're both communicating correctly and doing the things I want them to do.
+## April 15th:
+#### Finished the processing page and made sure the buttons are working by printing "button is clicked" when the player clicks on the button.
+#### Processing page:
+![](processingpage.png)
