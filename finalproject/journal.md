@@ -42,5 +42,5 @@
 #### Demo: 
 ![](Strawberrygame1.gif)
 #### What to do next:
-#### I need to place the images in different arrays to have them fall at different times and to be able to detect the score properly.
+##### - I need to place the images in different arrays to have them fall at different times and to be able to detect the score properly.
 
