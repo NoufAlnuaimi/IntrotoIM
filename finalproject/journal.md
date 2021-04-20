@@ -32,6 +32,8 @@
 #### I got stuck at the whole boolean and opening new pages thing so I will do that some other day.
 ## April 19th:
 #### I couldn't find certian images for my games so I just spent some time drawing that:
-![](redLED.png)
-![](yellowLED.png)
-![](blueLED.png)
+![](redLED.PNG)
+![](yellowLED.PNG)
+![](blueLED.PNG)
+![](fly.PNG)
+![](strawberry.PNG)
