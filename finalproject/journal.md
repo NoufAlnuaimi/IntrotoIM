@@ -38,3 +38,6 @@
 ![](fly.PNG)
 ![](strawberry.PNG)
 ![](redstrawberry.PNG)
+#### Then I moved on to creating the second game. I struggled a bit at first so I went to look at some code classmates used for a similar game and noticed I was still struggling so went on to youtube for some help (link to the video that helped a lot: https://www.youtube.com/watch?v=XqTNcC5M42U&t=618s) I then added my basket as the catcher and had a circle behind it to make it easier to detect wether I'm catching the strawberries or not. 
+#### Demo: 
+
