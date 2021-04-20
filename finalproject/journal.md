@@ -37,3 +37,4 @@
 ![](blueLED.PNG)
 ![](fly.PNG)
 ![](strawberry.PNG)
+![](redstrawberry.PNG)
