@@ -53,6 +53,6 @@
 ##### - Drew more images I needed (sky for background, and the jams).
 ##### - Added winning and losing pages.
 #### Winning page (appears when score is 20):
-![](Swinningpage.PNG)
+![](Swinningpage.png)
 #### Winning page (appears when score is below 0):
-![](Slosingpage.PNG)
+![](Slosingpage.png)
