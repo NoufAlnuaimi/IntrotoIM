@@ -45,4 +45,11 @@
 ![](Strawberrygame1.gif)
 #### What to do next:
 ##### - I need to place the images in different arrays to have them fall at different times and to be able to detect the score properly.
+## April 22nd:
+#### Because I already created a game with scores and winning and losing pages, finishing up this game was fairly quick and easy and I didn't find any problems with it.
+#### What I did:
+##### - Put the images in different arrays so they could be controlled better.
+##### - Set up the score properly.
+##### - Drew more images I needed (sky for background, and the jams).
+##### - Added winning and losing pages.
 
