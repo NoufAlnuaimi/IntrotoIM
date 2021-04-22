@@ -46,7 +46,7 @@
 #### What to do next:
 ##### - I need to place the images in different arrays to have them fall at different times and to be able to detect the score properly.
 ## April 22nd:
-#### Because I already created a game with scores and winning and losing pages, finishing up this game was fairly quick and easy and I didn't find any problems with it.
+#### Because I already created a game with scores and winning and losing pages, finishing up this game was fairly quick and easy and I didn't find any problems with it except for detecting the flies properly but then that turned out to be because I added 50 to the x-position of the image so it was not exactly centered. I realized that issue by placing a circle and seeing where that circle was and compared it to the image itself!
 #### What I did:
 ##### - Put the images in different arrays so they could be controlled better.
 ##### - Set up the score properly.
