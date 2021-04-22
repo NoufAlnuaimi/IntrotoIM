@@ -54,5 +54,5 @@
 ##### - Added winning and losing pages.
 #### Winning page (appears when score is 20):
 ![](Swinningpage.png)
-#### Winning page (appears when score is below 0):
+#### Losing page (appears when score is below 0):
 ![](Slosingpage.png)
