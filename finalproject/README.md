@@ -6,6 +6,8 @@
 ##### - The second game will be a fruit catching game where the player controls the x-position of the basket using the potentiometer.
 ### Schematic:
 ![](Finalschematic.JPG)
+### Circuit:
+![](circuitfinal.heic)
 ### Processing page:
 ![](processingpage.png)
 ### First game:
