@@ -22,3 +22,8 @@
 ![](1winning.png)
 ### Second game:
 ![](secondgamegif.gif)
+#### What the player does:
+##### -For every red strawberry they catch, they get 1 point.
+##### -For every pink strawberry they catch, it's 2 points.
+##### -If they reach a score of 20, they win.
+![](1winning.png)
