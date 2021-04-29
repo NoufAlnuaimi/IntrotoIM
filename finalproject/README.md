@@ -25,5 +25,7 @@
 #### What the player does:
 ##### -For every red strawberry they catch, they get 1 point.
 ##### -For every pink strawberry they catch, it's 2 points.
-##### -If they reach a score of 20, they win.
-![](1winning.png)
+##### -If they reach a score of 20, they've successfully made jam!
+![](Swinningpage.png)
+##### -If they catch a fly then they lose 10 points and yuck, they've made fly jam if the score goes below zero.
+![](Slosingpage.png)
