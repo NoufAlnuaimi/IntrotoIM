@@ -7,7 +7,7 @@
 ### Schematic:
 ![](Finalschematic.JPG)
 ### Circuit:
-![](circuitfinal.heic)
+![](circuitfinal.jpg)
 ### Processing page:
 ![](processingpage.png)
 ### First game:
