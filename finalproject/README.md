@@ -32,4 +32,4 @@ https://www.youtube.com/watch?v=Rkx3sDDK7BM
 ##### -If they reach a score of 20, they've successfully made jam!
 ![](Swinningpage.png)
 ##### -If they catch a fly then they lose 10 points and yuck, they've made fly jam if the score goes below zero.
-![](Slosingpage.png)
+![](Slost.png)
