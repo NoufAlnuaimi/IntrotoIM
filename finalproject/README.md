@@ -18,8 +18,12 @@
 ##### -Every time the player picks the wrong answer, they lose two points from their score.
 #### Lost page:
 ![](1losing.png)
+##### -Once the player completes the maze, the RGB LED goes off like fireworks!
+https://www.youtube.com/watch?v=Lr2nIXbx2vY
 #### Winning page:
 ![](1winning.png)
+#### First game demo:
+https://www.youtube.com/watch?v=Rkx3sDDK7BM
 ### Second game:
 ![](secondgamegif.gif)
 #### What the player does:
