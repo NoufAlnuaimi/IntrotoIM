@@ -12,5 +12,13 @@
 ![](processingpage.png)
 ### First game:
 ![](Firstgame.png)
+#### What the player does:
+##### -The player moves through the maze by controlling the little purple block using the keyboard cursers.
+##### -Every time the player touches a wall, they lose a point from their score.
+##### -Every time the player picks the wrong answer, they lose two points from their score.
+#### Lost page:
+![](1losing.png)
+#### Winning page:
+![](1winning.png)
 ### Second game:
 ![](secondgamegif.gif)
