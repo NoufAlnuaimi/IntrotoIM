@@ -44,3 +44,7 @@ https://www.youtube.com/watch?v=Rkx3sDDK7BM
 #### Issues I had but couldn't work out:
 ##### - The winning LED pattern worked at times but didn't at others even when I tried the counter trick.
 ##### - Although I made sure my arduino and processing were communicating and made sure my potentiometer was working, my catcher still wouldn't move or change X positions depending on the arduino; I believe it might've been an issue with my processing code but I could not figure what exactly. 
+#### Lovely takeaways from this class:
+##### - I felt proud of myself after every project.
+##### - Noticing how much faster I got at coding and how easily I was able to code what I wanted made me feel so cool and proud.
+##### - Got me very excited for future projects.
