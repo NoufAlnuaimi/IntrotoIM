@@ -48,3 +48,4 @@ https://www.youtube.com/watch?v=Rkx3sDDK7BM
 ##### - I felt proud of myself after every project.
 ##### - Noticing how much faster I got at coding and how easily I was able to code what I wanted made me feel so cool and proud.
 ##### - Got me very excited for future projects.
+###### Lots of love and sunshine :sun_with_face:
