@@ -1,4 +1,4 @@
-# Games Galore
+# :game_die: Games Galore
 ### My Idea:
 #### For this assignment, I decided to improve on week three's assignment and create a similar page on processing but this time with 2 different buttons that lead to three different game pages.
 #### The three different games explained:
