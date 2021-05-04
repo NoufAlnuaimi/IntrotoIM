@@ -33,3 +33,14 @@ https://www.youtube.com/watch?v=Rkx3sDDK7BM
 ![](Swinningpage.png)
 ##### -If they catch a fly then they lose 10 points and yuck, they've made fly jam if the score goes below zero.
 ![](Slost.png)
+#### Things that were a good idea:
+##### - Drawing my own images on a pixel drawing app, it made controlling the images easier + I got the exact images I wanted for my aesthetic. 
+##### - Putting everything into classes and functions (including the setup anf draw) makes putting together multiple sketches into one A LOT easier.
+##### - Finishing the project a day early gives you a chance to check and fix errors.
+##### - Understanding my code, what it does, what it's doing, and what it's supposed to do makes debugging very easy.
+#### Issues I had but was able to fix:
+##### - When I put my catcher game into the main sketch, the images stopped drawing but I realized it was an issue in the order of my code so once I fixed that, all was good.
+##### - The patterns the LEDs were supposed to do after the doors on processing were pressed weren't working properly but then I realized it must've been the counter so I set it back to zero after every pattern and they worked perfectly.
+#### Issues I had but couldn't work out:
+##### - The winning LED pattern worked at times but didn't at others even when I tried the counter trick.
+##### - Although I made sure my arduino and processing were communicating and made sure my potentiometer was working, my catcher still wouldn't move or change X positions depending on the arduino; I believe it might've been an issue with my processing code but I could not figure what exactly. 
